@@ -2,4 +2,4 @@ print("hello")
 
 print("Hi")
 
-print("ok alright")
+print("ok done")
